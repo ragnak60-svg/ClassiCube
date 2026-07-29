@@ -13,7 +13,7 @@ Copyright 2014-2025 ClassiCube | Licensed under BSD-3
 #define GAME_APP_NAME  "ClassiCube 1.3.8 web"
 #define GAME_APP_TITLE "ClassiCube"
 #else
-#define GAME_APP_NAME  "950" client
+#define GAME_APP_NAME  "950 client" 
 #define GAME_APP_TITLE "ClassiCube 1.3.8"
 #endif
 
